@@ -14,6 +14,5 @@ Definitely getting the Strafe mechanic to align with the stamina bar, and actual
 I will continue working on this assignment for sure! I'd like to add a lot more post processing but was unable to get it to work. I'd also love to add some sort of puzzle aspect regarding a wall; you need to search around and press a button to make the wall move and open a path.
 
 
-https://drive.google.com/file/d/1jV9lyFrMZfV6rD_8Bq7i3lIy2jOVUDVH/view?usp=sharing
-
 https://youtu.be/egfc12i_C50
+
